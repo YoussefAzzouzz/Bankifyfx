@@ -1,3 +1,5 @@
+[![Watch the video](https://raw.githubusercontent.com/YoussefAzzouzz/Bankifyfx/main/thumbnail.png)](https://raw.githubusercontent.com/YoussefAzzouzz/Bankifyfx/main/demob.mp4)
+
 # Bankify - Système de Gestion Bancaire
 
 Une application complète de gestion bancaire basée sur JavaFX qui offre des opérations bancaires complètes incluant la gestion de comptes, les transactions, les crédits, les assurances et le traitement des chèques.
